@@ -25,3 +25,6 @@ The workspace contains the following classes, where:
 - `CharacterSheet` class: creates an ArrayList made up of `PlayerCharacter` objects and uses `FileHandler` to handle a list of `PlayerCharacters` as input and output files
 - `GUI` class: serves as the GUI for the program
 - `AlphaContainer` class: serves as the container class for `GUI`
+
+### Acknowledgements
+Authors: Ila Wallace and Jacob Jones
