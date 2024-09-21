@@ -26,5 +26,5 @@ The workspace contains the following classes, where:
 - `GUI` class: serves as the GUI for the program
 - `AlphaContainer` class: serves as the container class for `GUI`
 
-### Acknowledgements
-Authors: Ila Wallace and Jacob Jones
+## Acknowledgements
+Made by Ila Wallace and Jacob Jones
