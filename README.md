@@ -1,4 +1,4 @@
-# "Dungeons & Dragons" Random Character Generator Project - Object Oriented Programming
+# "Dungeons & Dragons" Random Character Generator
 This program is desgined for users to quickly generate
 random D&D characters. The program uses a GUI interface
 to allow the user to save characters to files for later reference. Additionally, the user can set conditions for the character to meet such as higher standards of stats for the character, name, etc.
